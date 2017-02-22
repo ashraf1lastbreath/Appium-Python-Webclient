@@ -120,7 +120,7 @@ Click   '*No Target*' > *Show to Simulator*
 License
 ----
 
-Ashraf
+MIT
 
 
 **Free Software, Hell Yeah!**
